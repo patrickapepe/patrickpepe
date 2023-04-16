@@ -7,7 +7,7 @@
 - <b>Networking</b>
    - [project name](project link)
 - <b>Python</b>
-  - [project name](project link)
+  - [Rock Paper Scissors Project](https://replit.com/@patrickpepe/Rock-Paper-Scissors-1129?v=1)
 
 
 <h2> 🤳 Connect with me on Linkedin!:</h2>
