@@ -1,6 +1,4 @@
-
-![Profile Picture](blob:https://github.com/c4bd22f5-94fd-4c59-9244-cd8ca67661a3)
-
+<img src="https://github.com/patrickapepe/patrickpepe/blob/main/Prof%20headshot.jpg" alt="Profile Picture" width="150" height="150">
 <h1>Hi, I'm Patrick! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
