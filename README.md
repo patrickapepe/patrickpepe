@@ -10,7 +10,7 @@
 
 
 
--<h2> Certificates </h2>
+-<h2>📜 Certificates </h2>
   - [Google Data Analytics Specialization](https://coursera.org/share/4c809c932130a5c87f924188255fc682)
   - [Mastercard Cybersecurity Virtual Experience Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Mastercard/vcKAB5yYAgvemepGQ_Mastercard_kHokZHCDmZNvPDisy_1685718311485_completion_certificate.pdf)
   - [Fundamentals of Waterfall Project Management](https://www.credly.com/badges/2c4463b0-8c2c-4322-ac81-27b9fc750e26/linked_in_profile)
