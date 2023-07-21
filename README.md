@@ -1,3 +1,6 @@
+
+![Profile Picture](blob:https://github.com/c4bd22f5-94fd-4c59-9244-cd8ca67661a3)
+
 <h1>Hi, I'm Patrick! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -26,5 +29,4 @@
 [linkedin]: https://www.linkedin.com/in/patrick-pepe-a099a5257/
 
 <a href="mailto:patrick.pepe@rutgers.edu"> ✉️</a>
-
 
